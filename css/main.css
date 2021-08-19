@@ -1,0 +1,62 @@
+body {
+    font-family: "Rubik";
+}
+.container {
+    width: 80%;
+    height: 500px;
+    margin: auto;
+}
+.may-app-item {
+    width: 100%;
+    height: 100%;
+    padding: 45px;
+    background-color: white;
+}
+.item {
+    width: 60%;
+    height: 100%;
+    float: left;
+}
+.title {
+    width: 40%;
+    margin-top: 95px;
+}
+.item h2 {
+    color: #303030;
+    
+}
+.item p {
+    color: #606060;
+}
+.item img {
+    width: 100%;
+}
+.item button {
+    width: 130px;
+    height: 50px;
+    background-color: blue;
+    border: none;
+    color:white
+}
+.clear {
+    clear: both;
+}
+.learn-about-item {
+    background-color: #f8f8f8;
+}
+.ipad-img {
+    text-align: center;
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.ipad-img img {
+    width: 90%;
+}
+.description {
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+
